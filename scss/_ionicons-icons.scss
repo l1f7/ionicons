@@ -707,6 +707,7 @@
 .#{$ionicons-prefix}stats-bars:before,
 .#{$ionicons-prefix}steam:before,
 .#{$ionicons-prefix}stop:before,
+.#{$ionicons-prefix}streamflo:before,
 .#{$ionicons-prefix}thermometer:before,
 .#{$ionicons-prefix}thumbsdown:before,
 .#{$ionicons-prefix}thumbsup:before,
@@ -1443,6 +1444,7 @@
 .#{$ionicons-prefix}stats-bars:before { content: $ionicon-var-stats-bars; }
 .#{$ionicons-prefix}steam:before { content: $ionicon-var-steam; }
 .#{$ionicons-prefix}stop:before { content: $ionicon-var-stop; }
+.#{$ionicons-prefix}streamflo:before { content: $ionicon-var-streamflo; }
 .#{$ionicons-prefix}thermometer:before { content: $ionicon-var-thermometer; }
 .#{$ionicons-prefix}thumbsdown:before { content: $ionicon-var-thumbsdown; }
 .#{$ionicons-prefix}thumbsup:before { content: $ionicon-var-thumbsup; }

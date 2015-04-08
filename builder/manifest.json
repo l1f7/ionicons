@@ -1,5 +1,5 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "1addee16a3714ef182b63aad01dfd0e6",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2823,6 +2823,10 @@
     {
       "code": "0xf24f",
       "name": "stop"
+    },
+    {
+      "code": "0xf138",
+      "name": "streamflo"
     },
     {
       "code": "0xf2b6",
