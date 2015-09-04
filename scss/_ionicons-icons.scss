@@ -2,6 +2,7 @@
 // --------------------------
 
 .ionicons,
+.#{$ionicons-prefix}activities:before,
 .#{$ionicons-prefix}alert:before,
 .#{$ionicons-prefix}alert-circled:before,
 .#{$ionicons-prefix}android-add:before,
@@ -226,6 +227,7 @@
 .#{$ionicons-prefix}eye:before,
 .#{$ionicons-prefix}eye-disabled:before,
 .#{$ionicons-prefix}female:before,
+.#{$ionicons-prefix}field-guides:before,
 .#{$ionicons-prefix}filing:before,
 .#{$ionicons-prefix}film-marker:before,
 .#{$ionicons-prefix}fireball:before,
@@ -598,6 +600,7 @@
 .#{$ionicons-prefix}printer:before,
 .#{$ionicons-prefix}pull-request:before,
 .#{$ionicons-prefix}qr-scanner:before,
+.#{$ionicons-prefix}quiz:before,
 .#{$ionicons-prefix}quote:before,
 .#{$ionicons-prefix}radio-waves:before,
 .#{$ionicons-prefix}record:before,
@@ -739,6 +742,7 @@
 {
   @extend .ion;
 }
+.#{$ionicons-prefix}activities:before { content: $ionicon-var-activities; }
 .#{$ionicons-prefix}alert:before { content: $ionicon-var-alert; }
 .#{$ionicons-prefix}alert-circled:before { content: $ionicon-var-alert-circled; }
 .#{$ionicons-prefix}android-add:before { content: $ionicon-var-android-add; }
@@ -963,6 +967,7 @@
 .#{$ionicons-prefix}eye:before { content: $ionicon-var-eye; }
 .#{$ionicons-prefix}eye-disabled:before { content: $ionicon-var-eye-disabled; }
 .#{$ionicons-prefix}female:before { content: $ionicon-var-female; }
+.#{$ionicons-prefix}field-guides:before { content: $ionicon-var-field-guides; }
 .#{$ionicons-prefix}filing:before { content: $ionicon-var-filing; }
 .#{$ionicons-prefix}film-marker:before { content: $ionicon-var-film-marker; }
 .#{$ionicons-prefix}fireball:before { content: $ionicon-var-fireball; }
@@ -1335,6 +1340,7 @@
 .#{$ionicons-prefix}printer:before { content: $ionicon-var-printer; }
 .#{$ionicons-prefix}pull-request:before { content: $ionicon-var-pull-request; }
 .#{$ionicons-prefix}qr-scanner:before { content: $ionicon-var-qr-scanner; }
+.#{$ionicons-prefix}quiz:before { content: $ionicon-var-quiz; }
 .#{$ionicons-prefix}quote:before { content: $ionicon-var-quote; }
 .#{$ionicons-prefix}radio-waves:before { content: $ionicon-var-radio-waves; }
 .#{$ionicons-prefix}record:before { content: $ionicon-var-record; }

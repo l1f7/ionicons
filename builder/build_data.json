@@ -1,9 +1,13 @@
 {
-  "build_hash": "a2c6f31123a3cc8385d45bf46c5dde82",
+  "build_hash": "1addee16a3714ef182b63aad01dfd0e6",
   "prefix": "ion-",
-  "version": "2.0.1",
+  "version": "2.0.1-lift",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf13b",
+      "name": "activities"
+    },
     {
       "code": "0xf101",
       "name": "alert"
@@ -899,6 +903,10 @@
     {
       "code": "0xf278",
       "name": "female"
+    },
+    {
+      "code": "0xf13c",
+      "name": "field-guides"
     },
     {
       "code": "0xf134",
@@ -2387,6 +2395,10 @@
     {
       "code": "0xf346",
       "name": "qr-scanner"
+    },
+    {
+      "code": "0xf145",
+      "name": "quiz"
     },
     {
       "code": "0xf347",
