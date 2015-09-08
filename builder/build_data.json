@@ -1,7 +1,7 @@
 {
-  "build_hash": "1addee16a3714ef182b63aad01dfd0e6",
+  "build_hash": "5455f26f1843f66807b9af142a8281b4",
   "prefix": "ion-",
-  "version": "2.0.1-lift",
+  "version": "2.0.2-lift",
   "name": "Ionicons",
   "icons": [
     {
@@ -2871,6 +2871,10 @@
     {
       "code": "0xf253",
       "name": "trash-b"
+    },
+    {
+      "code": "0xf146",
+      "name": "tree"
     },
     {
       "code": "0xf356",
